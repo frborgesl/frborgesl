@@ -1,6 +1,6 @@
 ### Olá, Mundo! Eu sou o Fernando 👋
 
-- 🌱 Estudando Python e Power BI
+- 🌱 Estudante de Ciência da Computação.
 - 📫 Entre em contato no e-mail: frebletb@outlook.com
 - 😄 Pronouns: ele/dele
 
@@ -8,8 +8,12 @@
 
 <div align="center">
   <a href="https://github.com/frborgesl">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=frborgesl&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frborgesl&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=frborgesl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frborgesl&layout=compact&langs_count=0&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
 ##
